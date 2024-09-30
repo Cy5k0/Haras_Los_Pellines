@@ -34,8 +34,9 @@ This project is a fork and significant enhancement of a previous project. The or
 - Responsive design
 - Multilingual support
 - Image gallery with lightbox
-- Contact form with AWS SNS integration
+- Contact form with AWS SNS integration using AWS SDK in JavaScript and AWS Cognito.
 - Dynamic horse portfolio with filtering options
+- Hosted on an AWS S3 bucket with AWS CloudFront and AWS Route 53 for optimized content delivery and DNS management.
 
 ## Collaborators
 
