@@ -40,7 +40,7 @@ This project is a fork and significant enhancement of a previous project. The or
 
 ## Collaborators
 
-We would like to thank the following collaborators for their contributions to this project:
+I would like to thank the following collaborators for their contributions to this project:
 
 - [Francisco Monroy](https://github.com/fmonroy75) - Role/Contributions
 - [Natalia Peña](https://github.com/StudentNPD) - Role/Contributions
